@@ -28,6 +28,7 @@ body {
 #losses {
 	color: blue;
 	font-color: purple;
+	
 }
 
 #diamond,
@@ -35,6 +36,9 @@ body {
 #emerald,
 #sapphire {  
   border-style: none; 
+  width: 100%;
+  height: auto;
+  
 }
 
 #current-score-counter {
